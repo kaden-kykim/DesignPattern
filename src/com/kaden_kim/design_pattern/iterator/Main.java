@@ -2,7 +2,7 @@ package com.kaden_kim.design_pattern.iterator;
 
 import com.kaden_kim.design_pattern.iterator.impl.Book;
 import com.kaden_kim.design_pattern.iterator.impl.BookShelf;
-import com.kaden_kim.design_pattern.iterator.impl.interfaces.Iterator;
+import com.kaden_kim.design_pattern.iterator.impl.framework.Iterator;
 
 public class Main {
 
