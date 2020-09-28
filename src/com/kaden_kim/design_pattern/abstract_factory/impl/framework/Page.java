@@ -7,7 +7,7 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class Page implements HTMLabel{
+public abstract class Page implements HTMLabel {
 
     protected String title;
     protected String author;
