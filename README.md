@@ -16,7 +16,7 @@
 6. Flyweight
 7. Proxy
 
-### Behavior patterns
+### Behavioral patterns
 1. Chain of Responsibility
 2. Command
 3. Interpreter
